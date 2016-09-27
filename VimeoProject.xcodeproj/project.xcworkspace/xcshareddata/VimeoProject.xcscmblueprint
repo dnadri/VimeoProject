@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5AE225CA83CCCC856316D4EE6FCB772220E7C658",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5AE225CA83CCCC856316D4EE6FCB772220E7C658" : 0,
+    "81CF173C40A35A51BD6CF3F4580804424013B012" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "60E91A76-2FC1-4384-B063-9D7831AD8399",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5AE225CA83CCCC856316D4EE6FCB772220E7C658" : "VimeoProject\/",
+    "81CF173C40A35A51BD6CF3F4580804424013B012" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VimeoProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VimeoProject.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:dnadri\/VimeoProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5AE225CA83CCCC856316D4EE6FCB772220E7C658"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dnadri\/Swift-Projects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "81CF173C40A35A51BD6CF3F4580804424013B012"
+    }
+  ]
+}
